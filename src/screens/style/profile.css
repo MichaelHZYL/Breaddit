@@ -1,0 +1,16 @@
+.profile-icn {
+    font-size: 60px;
+}
+
+.hide:hover {
+    color: #535353;
+    cursor: pointer;
+}
+
+.btn-bread {
+    background-color: #FF6314;
+}
+
+.btn-bread:hover {
+    background-color: #9a3b0c;
+}

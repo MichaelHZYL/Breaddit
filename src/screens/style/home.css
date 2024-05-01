@@ -1,0 +1,31 @@
+i.fs-logo {
+    color: #FF6314;
+}
+
+hr.rounded {
+    border-top: 2px solid #bbb;
+    border-radius: 5px;
+}
+
+.btn-side:hover {
+    background-color: #202225;
+    cursor: pointer;
+}
+
+input.bg-s{
+    background-color: #919aa6;
+}
+
+.nav-ic {
+    cursor: pointer;
+}
+
+.navbar-shadow {
+    box-shadow: rgba(144, 92, 68, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.sidebar {
+    box-shadow: rgba(148, 94, 69, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    height: 100%;
+    position: fixed;
+}
